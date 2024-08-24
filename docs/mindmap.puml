@@ -1,0 +1,15 @@
+@startmindmap
+* Streamline Product
+** Welcome Page
+*** Explanation of Streamline product (TBD)
+*** Login/Signup Button
+** After Login
+*** Dashboard Page
+**** User's streams
+***** Stream Card
+****** Number of new notifications (unread/viewed)
+****** Metadata about the stream
+***** Expand Stream
+****** Points of Interest
+******* Notification Cards
+@endmindmap
